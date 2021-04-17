@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://velog.io/@ik_front9090"><img src="https://img.shields.io/badge/velog-3eb489?style=flat-square&logo=vimeo&logoColor=white"/></a>
+  <a href="https://www.instagram.com/51k.co.kr/"><img src="https://img.shields.io/badge/instagram-ff0044?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-<a href="https://www.instagram.com/51k.co.kr/"><img src="https://img.shields.io/badge/instagram-ff0044?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
-<a href="https://velog.io/@ik_front9090"><img src="https://img.shields.io/badge/velog-3eb489?style=flat-square&logo=vimeo&logoColor=white"/></a>
-
+</p>
 
 <!--
 **qdaszx/qdaszx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

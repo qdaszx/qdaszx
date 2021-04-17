@@ -1,5 +1,5 @@
 <h2 align="center">
-  WAY TO GO
+  
 </h2>
 <h2 align="center">
 <p align="center">

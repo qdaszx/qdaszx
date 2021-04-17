@@ -17,6 +17,11 @@
 
 </p>
 
+
+<div align="center">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqdaszx&count_bg=%23E34F26&title_bg=%23CDC4C4&icon=github.svg&icon_color=%23040515&title=Hi&edge_flat=true)](https://hits.seeyoufarm.com)
+</div>
+
 <!--
 **qdaszx/qdaszx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

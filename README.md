@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=어%20서%20와%20요&animation=twinkling&fontSize=70&rotate=)
 
 <h2 align="center">
 <p align="center">

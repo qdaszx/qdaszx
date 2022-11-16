@@ -12,14 +12,13 @@
 
 <h3 align="center"> About me </h3>
 <p align="center">
-  <a href="https://velog.io/@ik_front9090"><img src="https://img.shields.io/badge/velog-3eb489?style=flat-square&logo=vimeo&logoColor=white"/></a>
   <a href="https://www.instagram.com/51k.co.kr/"><img src="https://img.shields.io/badge/instagram-ff0044?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
 
 </p>
 <br/>
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
+  <a href="https://hits.seeyoufarm.com" target="_blank">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqdaszx&count_bg=%23FFD500&title_bg=%230F0F0F&icon=github.svg&icon_color=%23FFFEFE&title=Hi%F0%9F%91%8B%F0%9F%8F%BB&edge_flat=true">
   </a>
 </p>

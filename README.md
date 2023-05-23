@@ -10,11 +10,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 </p>
 
-<h3 align="center"> About me </h3>
-<p align="center">
-  <a href="https://www.instagram.com/51k.co.kr/"><img src="https://img.shields.io/badge/instagram-ff0044?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  
-
 </p>
 <br/>
 <p align="center">

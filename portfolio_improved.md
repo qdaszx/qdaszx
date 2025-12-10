@@ -41,7 +41,7 @@ src/
 
 [FSD 아키텍처(Feature-Sliced Design)](https://feature-sliced.design/kr/docs/get-started/overview) 도입 및 커스텀
 
-팀의 규모와 프로젝트 특성에 맞춰 FSD를 경량화하여 도입했습니다.
+팀의 규모와 프로젝트 특성에 맞춰 FSD를 커스텀하여 도입했습니다.
 
 - **명시적 경로**: import 시 `entities/board/api`와 같이 계층(Layer)과 슬라이스(Slice)가 명확히 드러나도록 설정
 - **Role 기반 분리**: 예외 처리가 많은 페이지는 Page Layer 또는 Slice 내부에서 `student-board`, `parent-board`로 명확히 분리하여 if/else 복잡도 제거

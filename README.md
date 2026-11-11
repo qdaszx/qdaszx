@@ -1,11 +1,14 @@
-# Kyo
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/kyo-banner-dark.svg">
+  <img alt="kyo, frontend engineer. An agent writes the JSX, kyo reviews the screen and asks for a change, and the agent fixes it." src="./assets/kyo-banner-light.svg" width="100%">
+</picture>
 
-Frontend engineer exploring interfaces for coding agents.
+Frontend engineer working alongside coding agents. They write the code; I decide what the screen should be and make sure it's right.
 
-I care about tools that make agent workflows easier to inspect, steer, and repeat. I have a thing for coding harnesses.
+I have a thing for coding harnesses.
 
-### Currently thinking about
+### What I care about
 
-- interfaces for long-running agent work
-- human-in-the-loop developer tools
-- making complex runtime state easier to understand
+- deciding what a screen should be before anyone writes code
+- interfaces that make an agent's work easy to read
+- knowing when to let the agent run and when to step in

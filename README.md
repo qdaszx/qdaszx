@@ -3,12 +3,12 @@
   <img alt="kyo, frontend engineer. JSX typed on the left renders as an app screen on the right." src="./assets/kyo-banner-light.svg" width="100%">
 </picture>
 
-Frontend engineer exploring interfaces for coding agents.
+Frontend engineer who turns code into screens people enjoy using.
 
-I care about tools that make agent workflows easier to inspect, steer, and repeat. I have a thing for coding harnesses.
+These days I also build interfaces for coding agents: ways to see what an agent is doing, steer it, and run it again. I have a thing for coding harnesses.
 
-### Currently thinking about
+### What I care about
 
-- interfaces for long-running agent work
-- human-in-the-loop developer tools
-- making complex runtime state easier to understand
+- small components that compose into whole screens
+- interfaces that make complex runtime state easy to read
+- letting people step in at the right moment while agents work

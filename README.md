@@ -3,12 +3,12 @@
   <img alt="kyo, frontend engineer. JSX typed on the left renders as an app screen on the right." src="./assets/kyo-banner-light.svg" width="100%">
 </picture>
 
-Frontend engineer who turns code into screens people enjoy using.
+Frontend engineer working alongside coding agents. They write the code; I decide what the screen should be and make sure it's right.
 
-These days I also build interfaces for coding agents: ways to see what an agent is doing, steer it, and run it again. I have a thing for coding harnesses.
+I have a thing for coding harnesses.
 
 ### What I care about
 
-- small components that compose into whole screens
-- interfaces that make complex runtime state easy to read
-- letting people step in at the right moment while agents work
+- deciding what a screen should be before anyone writes code
+- interfaces that make an agent's work easy to read
+- knowing when to let the agent run and when to step in

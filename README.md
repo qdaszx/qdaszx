@@ -1,4 +1,7 @@
-# Kyo
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/kyo-banner-dark.svg">
+  <img alt="kyo, frontend engineer. JSX typed on the left renders as an app screen on the right." src="./assets/kyo-banner-light.svg" width="100%">
+</picture>
 
 Frontend engineer exploring interfaces for coding agents.
 
